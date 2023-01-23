@@ -19,6 +19,4 @@
 <h2> Github Stats</h2>  
   
    ![Raj's github stats](https://github-readme-stats.vercel.app/api?username=Raj-m01&show_icons=true&theme=tokyonight)  ![Raj GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raj-m01&theme=tokyonight) 
- <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj-m01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top lang" height="192px"/>
- </p>
+
