@@ -20,3 +20,6 @@
   
    ![Raj's github stats](https://github-readme-stats.vercel.app/api?username=Raj-m01&show_icons=true&theme=tokyonight)  ![Raj GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raj-m01&theme=tokyonight) 
 
+<h2> Stackoverflow Stats</h2>  
+
+  [![Raj StackOverflow stats](https://github-readme-stackoverflow.vercel.app/?userID=14778218)](https://stackoverflow.com/users/14778218/raj)
